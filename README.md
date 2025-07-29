@@ -21,7 +21,7 @@
 
 ### Links
 
-- Solution URL: [AR_social-links-profile-main](https://github.com/andrewxrojas/AR_product-preview-card-component-main)
+- Solution URL: [AR_product-preview-card-component-main](https://github.com/andrewxrojas/AR_product-preview-card-component-main)
 - Live Site URL: [Live site](https://andrewxrojas.github.io/AR_product-preview-card-component-main/)
 
 ## My process
@@ -33,7 +33,6 @@
 
 ### What I learned
 
-This project taught me the importance of building a strong foundation before adding any cascade styles to it. I learned how to use and format button tags, which has served as a better option than formatting li and ul tags. Additionally, I knew that it is better to code for the mobile style first and use media queries to scale the size of containers and format type, and other elements based on screen size. I'm still learning about media queries, but I'm gaining a better understanding of them with each new code challenge.
 
 ![What I Learned](./assets/images/WhatILearned.png)
 
