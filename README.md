@@ -38,9 +38,6 @@ I had missed a closing tag in my index.html file, which caused any
 CSS changes to have no effect on the layout. Once I identified the error, 
 I realized its impact. The lesson is: always ensure your foundation is solid before continuing.
 
-
-![What I Learned](./assets/images/WhatILearned.png)
-
 ### Continued development
 
 I want to continue learning about CSS styles, media query, and responsive layouts as I feel that these are important skills to learn in order to make a user friendly design.
