@@ -33,6 +33,11 @@
 
 ### What I learned
 
+I discovered how easily a syntax error can lead to broken code. 
+I had missed a closing tag in my index.html file, which caused any 
+CSS changes to have no effect on the layout. Once I identified the error, 
+I realized its impact. The lesson is: always ensure your foundation is solid before continuing.
+
 
 ![What I Learned](./assets/images/WhatILearned.png)
 
